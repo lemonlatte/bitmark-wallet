@@ -215,6 +215,7 @@ func main() {
 
 	rootCmd.AddCommand(NewCoinCmd("btc", "Bitcoin wallet", "Bitcoin wallet", wallet.BTC))
 	rootCmd.AddCommand(NewCoinCmd("ltc", "Litecoin wallet", "Litecoin wallet", wallet.LTC))
+	rootCmd.AddCommand(NewCoinCmd("zec", "Zcash wallet", "Zcash wallet", wallet.ZEC))
 
 	if err := rootCmd.Execute(); err != nil {
 		fmt.Println(err)
