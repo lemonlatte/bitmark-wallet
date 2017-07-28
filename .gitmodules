@@ -55,3 +55,42 @@
 [submodule "command/bitmark-wallet/vendor/golang.org/x/sys"]
 	path = command/bitmark-wallet/vendor/golang.org/x/sys
 	url = https://go.googlesource.com/sys
+[submodule "command/bitmark-wallet/vendor/golang.org/x/tools"]
+	path = command/bitmark-wallet/vendor/golang.org/x/tools
+	url = https://go.googlesource.com/tools
+[submodule "command/bitmark-wallet/vendor/github.com/cpuguy83/go-md2man"]
+	path = command/bitmark-wallet/vendor/github.com/cpuguy83/go-md2man
+	url = https://github.com/cpuguy83/go-md2man
+[submodule "command/bitmark-wallet/vendor/github.com/mitchellh/go-homedir"]
+	path = command/bitmark-wallet/vendor/github.com/mitchellh/go-homedir
+	url = https://github.com/mitchellh/go-homedir
+[submodule "command/bitmark-wallet/vendor/github.com/pkg/sftp"]
+	path = command/bitmark-wallet/vendor/github.com/pkg/sftp
+	url = https://github.com/pkg/sftp
+[submodule "command/bitmark-wallet/vendor/github.com/bitmark-inc/bitmarkd"]
+	path = command/bitmark-wallet/vendor/github.com/bitmark-inc/bitmarkd
+	url = https://github.com/bitmark-inc/bitmarkd
+[submodule "command/bitmark-wallet/vendor/github.com/xordataexchange/crypt"]
+	path = command/bitmark-wallet/vendor/github.com/xordataexchange/crypt
+	url = https://github.com/xordataexchange/crypt
+[submodule "vendor/github.com/bitgoin/tx"]
+	path = vendor/github.com/bitgoin/tx
+	url = https://github.com/bitgoin/tx
+[submodule "vendor/github.com/bitgoin/address"]
+	path = vendor/github.com/bitgoin/address
+	url = https://github.com/bitgoin/address
+[submodule "command/bitmark-wallet/vendor/github.com/BurntSushi/toml"]
+	path = command/bitmark-wallet/vendor/github.com/BurntSushi/toml
+	url = https://github.com/BurntSushi/toml
+[submodule "command/bitmark-wallet/vendor/github.com/pborman/uuid"]
+	path = command/bitmark-wallet/vendor/github.com/pborman/uuid
+	url = https://github.com/pborman/uuid
+[submodule "command/bitmark-wallet/vendor/github.com/coreos/etcd"]
+	path = command/bitmark-wallet/vendor/github.com/coreos/etcd
+	url = https://github.com/coreos/etcd
+[submodule "command/bitmark-wallet/vendor/github.com/x/net"]
+	path = command/bitmark-wallet/vendor/github.com/x/net
+	url = https://go.googlesource.com/net
+[submodule "command/bitmark-wallet/vendor/golang.org/x/net"]
+	path = command/bitmark-wallet/vendor/golang.org/x/net
+	url = https://go.googlesource.com/net
